@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//RGB7004 bodlogo
 int main(){
 	int a,v,s;
 	scanf("%d",&a);
